@@ -1,0 +1,12 @@
+# Environment variables (contains API keys)
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Windows
+Thumbs.db
