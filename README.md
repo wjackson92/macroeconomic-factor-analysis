@@ -2,7 +2,7 @@
 
 
 
-\## Overview
+\# Overview
 
 
 
@@ -14,7 +14,7 @@ This project explores whether latent macroeconomic factors extracted from public
 
 
 
-Macroeconomic forecasting often relies on large collections of highly correlated economic indicators. Rather than modeling each variable individually, factor analysis identifies a smaller number of latent factors that summarize underlying economic conditions. These latent factors provide a clearer grouping of what concepts drive GDP and how they are expressed through key indicators. Using these latent factors This project investigates whether these latent factors provide a useful representation of the economy for forecasting GDP.
+Macroeconomic forecasting often relies on large collections of highly correlated economic indicators. Rather than modeling each variable individually, factor analysis identifies a smaller number of latent factors that summarize underlying economic conditions. These latent factors provide a clearer grouping of what concepts drive GDP and how they are expressed through key indicators.
 
 
 
