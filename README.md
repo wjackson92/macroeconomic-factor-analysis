@@ -2,7 +2,7 @@
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,7 +10,7 @@ This project explores whether latent macroeconomic factors extracted from public
 
 
 
-\## Motivation
+## Motivation
 
 
 
@@ -18,7 +18,7 @@ Macroeconomic forecasting often relies on large collections of highly correlated
 
 
 
-\## Results
+## Results
 
 
 
@@ -26,7 +26,7 @@ The analysis successfully extracted interpretable latent macroeconomic factors f
 
 
 
-\## Future Improvements
+## Future Improvements
 
 
 
@@ -34,13 +34,13 @@ Potential extensions include:
 
 
 
-\- Expanding the macroeconomic feature set.
+- Expanding the macroeconomic feature set.
 
-\- Comparing Factor Analysis with alternative dimensionality reduction techniques such as Principal Component Analysis (PCA).
+- Comparing Factor Analysis with alternative dimensionality reduction techniques such as Principal Component Analysis (PCA).
 
-\- Evaluating additional forecasting models and validation strategies.
+- Evaluating additional forecasting models and validation strategies.
 
-\- Testing robustness across different economic regimes and forecasting horizons.
+- Testing robustness across different economic regimes and forecasting horizons.
 
-\- Comparing forecasting with latent factors to forecasting with raw indicators
+- Comparing forecasting with latent factors to forecasting with raw indicators
 
