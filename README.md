@@ -1,5 +1,7 @@
 # Macroeconomic Factor Analysis
 
+# PROJECT IS UNDER CONSTRUCTION
+"Potential extensions" are being developed. Script may be semi-functional and documentation out of date. 
 
 
 ## Overview
@@ -34,9 +36,9 @@ Potential extensions include:
 
 
 
-- Expanding the macroeconomic feature set.
+- Expanding the macroeconomic feature set. [IN PROGRESS]
 
-- Comparing Factor Analysis with alternative dimensionality reduction techniques such as Principal Component Analysis (PCA).
+- Comparing Factor Analysis with alternative dimensionality reduction techniques such as Principal Component Analysis (PCA). [IN PROGRESS]
 
 - Evaluating additional forecasting models and validation strategies.
 
